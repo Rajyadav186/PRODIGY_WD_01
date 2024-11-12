@@ -12,5 +12,9 @@ The page look before scrolled.
 .
 .
 .
+
 After scrolled the navigation bar will darker. That it's change the color.
 <img width="1079" alt="after" src="https://github.com/user-attachments/assets/c0691e38-fee9-4cc0-a5d9-127d7fb8150c">
+
+....Whenever we hover to navigation item it will change the color also.
+<img width="1067" alt="hover" src="https://github.com/user-attachments/assets/5f00c308-c3ff-4eeb-bd7e-a665d81bfe1a">
